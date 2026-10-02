@@ -1,0 +1,4 @@
+gymnasium>=1.0
+numpy
+matplotlib
+jupyter
