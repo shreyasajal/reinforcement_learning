@@ -6,8 +6,6 @@ Reinforcement learning from scratch: maths, intuition and code for every algorit
 
 Each notebook builds up one idea: the theory and derivations first, then a from-scratch implementation in NumPy on Gymnasium environments, then experiments and what I learned from them.
 
-![Policy iteration vs value iteration](assets/pi_vs_vi_frozenlake.gif)
-
 ## Notebooks
 
 ### Part 1: Model-based learning (dynamic programming)
