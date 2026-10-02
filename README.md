@@ -12,8 +12,8 @@ Each notebook builds up one idea: the theory and derivations first, then a from-
 
 | # | Notebook | What's inside |
 |---|---|---|
-| 01 | [Intro to RL + Policy Iteration](model_based_learning/01_intro_rl_and_policy_iteration.ipynb) | MDPs, values, Bellman equation derivation, optimality equations, contraction + Banach fixed-point theorem, policy iteration |
-| 02 | Value Iteration *(coming soon)* | Bellman optimality backup, why it converges, PI vs VI |
+| 01 | [Intro to RL + Policy Iteration](model_based_learning/01_intro_rl_and_policy_iteration.ipynb) | MDPs, values, Bellman equation derivation, optimality equations, policy iteration |
+| 02 | Value Iteration *(coming soon)* | Bellman optimality backup, why it converges, PI vs VI, contraction + Banach fixed-point theorem|
 
 ### Part 2: Model-free learning
 
