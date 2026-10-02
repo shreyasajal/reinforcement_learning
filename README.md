@@ -2,7 +2,7 @@
 
 Reinforcement learning from scratch: maths, intuition and code for every algorithm.
 
-📢 I post daily logs on what I'm learning on X, follow along: [@yourhandle](https://x.com/shreya_sajal)
+📢 I post daily logs on what I'm learning on X, follow along: [@shreya_sajal](https://x.com/shreya_sajal)
 
 Each notebook builds up one idea: the theory and derivations first, then a from-scratch implementation in NumPy on Gymnasium environments, then experiments and what I learned from them.
 
