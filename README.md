@@ -20,7 +20,7 @@ Each notebook builds up one idea: the theory and derivations first, then a from-
 | # | Notebook | What's inside |
 |---|---|---|
 | 03 | [Monte Carlo](model_free_learning/01_monte_carlo.ipynb) | Learning from episodes without a model, ε-greedy exploration, first-visit returns, MC policy iteration, online averaging (running mean + learning rate) |
-| 04 | SARSA *(coming soon)* | TD learning, bootstrapping, on-policy control |
+| 04 | [SARSA](model_free_learning/02_sarsa.ipynb) | TD learning and bootstrapping, the TD error, bias-variance vs Monte Carlo, on-policy control, implicit policy improvement (GPI), termination vs truncation, the safe path on CliffWalking |
 | 05 | Q-learning *(coming soon)* | Off-policy control, SARSA vs Q-learning on CliffWalking |
 | 06 | n-step TD *(coming soon)* | Bias-variance trade-off between TD and Monte Carlo |
 | 07 | TD(λ) *(coming soon)* | λ-returns, eligibility traces |
